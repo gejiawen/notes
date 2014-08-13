@@ -6,10 +6,12 @@
 * 前端系列
 
 * 我的创造
+    * [TODO](./2014/TODO.md)
 
 * 技术学习
 
-* 教程转载
+* Mark转载
+    * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
 
 * 心情札记
 
