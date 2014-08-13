@@ -9,6 +9,12 @@
     * [TODO](./2014/TODO.md)
 
 * 技术学习
+    * [NodeJS](http://nodejs.org/)
+        * [资源列表](./2014/nodejs资源列表.md)
+    * [F.I.S](http://fis.baidu.com/)
+
+* 读书笔记
+    * ProGit
 
 * Mark转载
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
