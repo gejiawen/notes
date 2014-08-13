@@ -1,7 +1,7 @@
 个人博客
 ===
 
-> 从今天（8/13/2014）开始，懒得去折腾什么静态博客了，[gejiawen.github.io](htttp://gejiawen.github.io)也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。Welcome ~
+> 从今天（8/13/2014）开始，懒得去折腾什么[静态博客](http://gejiawen.github.io/)了，也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。Welcome ~
 
 * 前端系列
 
