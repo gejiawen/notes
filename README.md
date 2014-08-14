@@ -20,6 +20,7 @@
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
     * [前端模块化开发那点历史](https://github.com/seajs/seajs/issues/588)
     * [前端模块化开发的价值](https://github.com/seajs/seajs/issues/547)
+    * [2013前端技术盘点](http://cnberg.com/archive/2013-fe/)
 
 * 心情札记
 
