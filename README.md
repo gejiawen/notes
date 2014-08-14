@@ -18,6 +18,8 @@
 
 * Mark转载
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
+    * [前端模块化开发那点历史](https://github.com/seajs/seajs/issues/588)
+    * [前端模块化开发的价值](https://github.com/seajs/seajs/issues/547)
 
 * 心情札记
 
