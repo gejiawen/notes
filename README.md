@@ -23,6 +23,7 @@
     * [前端模块化开发的价值](https://github.com/seajs/seajs/issues/547)
     * [2013前端技术盘点](http://cnberg.com/archive/2013-fe/)
     * [SeaJS与RequireJS的区别](https://github.com/seajs/seajs/issues/277)
+    * [AMD的CommonJS Wrapping](https://www.imququ.com/post/amd-simplified-commonjs-wrapping.html)
 
 * 心情札记
 
