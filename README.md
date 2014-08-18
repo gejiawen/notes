@@ -1,7 +1,7 @@
 个人博客
 ===
 
-> 从今天（8/13/2014）开始，懒得去折腾什么[静态博客](http://gejiawen.github.io/)了，也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。Welcome ~
+> ~~从今天（8/13/2014）开始，懒得去折腾什么[静态博客](http://gejiawen.github.io/)了，也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。~~
 
 * 前端系列
    * [论AMD和CMD](http://gejiawen.github.io/2014/07/18/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/)
