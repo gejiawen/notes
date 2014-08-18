@@ -17,7 +17,8 @@
 * 读书笔记
     * ProGit
 
-* Mark转载
+* 资源转载
+    * **[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)**
     * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
     * [浅谈前端集成解决方案](https://github.com/fouber/blog/issues/1)
     * [前端模块化开发那点历史](https://github.com/seajs/seajs/issues/588)
