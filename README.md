@@ -27,6 +27,7 @@
     * [AMD的CommonJS Wrapping](https://www.imququ.com/post/amd-simplified-commonjs-wrapping.html)
     * [前端架构那些事儿](http://blog.xufei.gitpress.org/~posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
     * [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html)
+    * [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
 
 * 心情札记
 
