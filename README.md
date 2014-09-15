@@ -2,7 +2,8 @@
 
 
 > ~~从今天（8/13/2014）开始，懒得去折腾什么[静态博客](http://gejiawen.github.io/)了，也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。~~
-> 此处将专门用于转载记录各种资源文章
+
+> **此处将专门用于转载记录各种资源文章**
 
 
 - 资源转载 
@@ -21,6 +22,38 @@
         - [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
         - [论AMD和CMD](http://gejiawen.github.io/2014/07/18/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/)
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
+        - [javascript设计模式](http://www.cnblogs.com/Darren_code/archive/2011/08/31/JavascripDesignPatterns.html)
+        - [javascript MVC框架PK：Angular, Backbone, CanJS, Ember](http://www.csdn.net/article/2013-04-25/2815032-A-Comparison-of-Angular-Backbone-CanJS-and-Ember)
+        - [防止内容被选中](http://www.cnblogs.com/rubylouvre/archive/2011/05/08/2040121.html)
+        - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
+        - [javascript秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+        - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
+    - CSS及相关
+        - [纯CSS实现箭头、气泡让提示功能具有三角形图标](http://www.jb51.net/css/97112.html)
+        - [CSS div文本垂直居中](http://blog.163.com/zhaoyanping_1125/blog/static/20132915320120574238932/)
+        - [CSS控制文本超出指定宽度后用省略号代替，CSS控制文本不换行](http://blog.csdn.net/ynz1219/article/details/7413530/)
+        - [CSS实现垂直居中的5种方法](http://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods.html)
+        - [css清除float方法](http://flyxiang228.iteye.com/blog/1069071)
+        - [如何将页脚固定在页面底部](http://www.w3cplus.com/css/css-sticky-foot-at-bottom-of-the-page)
+        - [CSS3 :nth-child()伪类选择器](http://www.cnblogs.com/kiracn/archive/2009/12/17/1626742.html)
+        - [css 中的background:transparent到底是什么意思有什么作用](http://www.jb51.net/css/67702.html)
+    - 解决方案、框架、库
+        - [Avalon.js](http://rubylouvre.github.io/mvvm/)
+        - [Arale.js](http://aralejs.org/)
+        - [Alice.js](http://aliceui.org/)
+        - [F.I.S](http://fis.baidu.com)
+        - [Angular.js](http://angularjs.org/)
+            - [NgModules](http://ngmodules.org/)
+            - [angular-UI](http://angular-ui.github.io/)
+            - [AngularJS学习笔记](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
+            - [angular性能优化心得](http://atian25.github.io/2014/05/09/angular-performace/)
+            - [AngularJS框架的网站进行SEO的基本原理](http://angularjs.cn/A05v)
+        - Css预编译技术
+            - [Sass vs. LESS vs. Stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-a-preprocessor-shootout--net-24320)
+            - [LESS](http://www.lesscss.net/)
+            - [Sass](http://sass-lang.com/)
+            - [Stylus](http://learnboost.github.io/stylus/)
+                - [stylus中文版参考文档之综述](http://www.zhangxinxu.com/jq/stylus/)
     - NodeJS
         - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
         - [Node入门](http://www.nodebeginner.org/index-zh-cn.html#a-basic-http-server)
@@ -41,6 +74,10 @@
         - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
     - Golang
         - [golang中国](http://golangtc.com/)
+    - 开源相关
+        - [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+    - 工程化
+        - [依赖注入的那些事](http://www.cnblogs.com/leoo2sk/archive/2009/06/17/di-and-ioc.html#2759603)
 
 - 值得订阅的blog
     - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
@@ -70,7 +107,10 @@
     - [W3Cplus](http://www.w3cplus.com/)
     - [Web前端资源网](http://www.58img.com/)
     - [程序员之家](http://www.chengxuyuans.com/)
-    - [CNode](http://cnodejs.org/)
+    - [CNode社区](http://cnodejs.org/)
+    - [W3Cfuncs](http://www.w3cfuns.com/)
+    - [AngularJS中文社区](http://angularjs.cn/)
+    - [前端观察](http://www.qianduan.net/)
 
 - 在线工具
     - [开源在线工具](http://tool.oschina.net/)
