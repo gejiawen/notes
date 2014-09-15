@@ -23,12 +23,61 @@
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
     - NodeJS
         - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+        - [Node入门](http://www.nodebeginner.org/index-zh-cn.html#a-basic-http-server)
+        - [从零开始nodejs系列](http://blog.fens.me/series-nodejs/)
+        - [node.js笔记](http://node-js.diandian.com/)
+        - *[NODE.JS MODULES](https://nodejsmodules.org/)*
+        - [CNPM搭建私有的NPM服务](http://blog.fens.me/nodejs-cnpm-npm/)
+    - 版本控制
+        - [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+        - [a successful git branch model](http://nvie.com/posts/a-successful-git-branching-model/)
+    - RESTful API
+        - [RESTful API设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+    - 安全
+        - [理解OAuth2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+    - Linux
+        - [鸟哥的Linux私房菜](http://linux.vbird.org/)
+    - Nginx
+        - (Nginx开发从入门到精通)[http://tengine.taobao.org/book/index.html]
+    - Golang
+        - [golang中国](http://golangtc.com/)
 
-* 读书笔记
+- 值得订阅的blog
+    - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
+    - **[汤姆大叔](http://www.cnblogs.com/TomXu/)**
+    - [破狼](http://www.cnblogs.com/whitewolf/)
+    - [司徒正美](http://www.cnblogs.com/rubylouvre/)
+    - [无双](http://www.cnblogs.com/2050/)
+    - [Darren_聂微东 - 关注前端技术](http://www.cnblogs.com/Darren_code/)
+    - [snandy](http://www.cnblogs.com/snandy/)
+    - [TaoBaoUED](http://ued.taobao.org/blog/)
+    - [腾讯全端 AlloyTeam](http://www.alloyteam.com/)
+    - [草根程序员](http://www.cnblogs.com/jscode/)
+    - [黑 * 白](http://youngsterxyf.github.io/)
+    - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com/labels/blog)
+    - [余果](http://yuguo.us/)
+    - [CodingLabs](http://blog.codinglabs.org/)
+    - [堂主](http://www.osmn00.com/)
+    - [Kejun](http://hikejun.com/?from=inf&wvr=5&loc=infblog)
+    - **[TJ Holowaychuk](https://medium.com/@tjholowaychuk)**
+    - [张鑫旭](http://www.zhangxinxu.com/php/)
+    - [feenan](http://www.cnblogs.com/xuwenmin888/)
+    - [粉丝日志](http://blog.fens.me/)
+    - [OKLAI'S BLOG](http://oklai.name/)
+    - 
 
-* 心情札记
+- 社区及门户
+    - [OSC](http://www.oschina.net/)
+    - [W3Cplus](http://www.w3cplus.com/)
+    - [Web前端资源网](http://www.58img.com/)
+    - [程序员之家](http://www.chengxuyuans.com/)
+    - [CNode](http://cnodejs.org/)
 
-* 入手队列
+- 在线工具
+    - [开源在线工具](http://tool.oschina.net/)
 
 
-Email: mamamiya.gee@gmail.com
+Email: 
+
+- mamamiya.gee@gmail.com
+- 806717031@qq.com
