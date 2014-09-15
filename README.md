@@ -2,6 +2,8 @@
 
 
 > ~~从今天（8/13/2014）开始，懒得去折腾什么[静态博客](http://gejiawen.github.io/)了，也不准备继续更新了。以后就专心使用心爱的[MarkDown](http://wowubuntu.com/markdown/)来写文章吧。~~
+> 此处将专门用于转载记录各种资源文章
+
 
 - 资源转载 
     - 前端系列
@@ -18,6 +20,7 @@
         - [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html)
         - [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
         - [论AMD和CMD](http://gejiawen.github.io/2014/07/18/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/)
+        - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
     - NodeJS
         - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
