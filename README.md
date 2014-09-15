@@ -37,6 +37,9 @@
         - [如何将页脚固定在页面底部](http://www.w3cplus.com/css/css-sticky-foot-at-bottom-of-the-page)
         - [CSS3 :nth-child()伪类选择器](http://www.cnblogs.com/kiracn/archive/2009/12/17/1626742.html)
         - [css 中的background:transparent到底是什么意思有什么作用](http://www.jb51.net/css/67702.html)
+    - HTML5
+        - [28个你必须知道的HTML5的新特性，技巧以及技术](http://adamlu.com/?p=584)
+        - [IndexedDB开发指南](http://www.tfan.org/using-indexeddb/)
     - 解决方案、框架、库
         - [Avalon.js](http://rubylouvre.github.io/mvvm/)
         - [Arale.js](http://aralejs.org/)
@@ -54,6 +57,12 @@
             - [Sass](http://sass-lang.com/)
             - [Stylus](http://learnboost.github.io/stylus/)
                 - [stylus中文版参考文档之综述](http://www.zhangxinxu.com/jq/stylus/)
+        - 构建方案
+            - [gulp](http://gulpjs.com/)
+                - [Gulp挑战Grunt，背后的哲学](http://www.jianshu.com/p/3779f708f5d7/)
+            - [grunt](http://gruntjs.com/)
+            - [yeoman.io](http://yeoman.io/)
+            - [yeoman中文版](http://yeomanjs.org/)
     - NodeJS
         - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
         - [Node入门](http://www.nodebeginner.org/index-zh-cn.html#a-basic-http-server)
@@ -78,7 +87,7 @@
         - [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
     - 工程化
         - [依赖注入的那些事](http://www.cnblogs.com/leoo2sk/archive/2009/06/17/di-and-ioc.html#2759603)
-
+    
 - 值得订阅的blog
     - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
     - **[汤姆大叔](http://www.cnblogs.com/TomXu/)**
@@ -114,6 +123,7 @@
 
 - 在线工具
     - [开源在线工具](http://tool.oschina.net/)
+    - [online javascript beautifier](http://jsbeautifier.org/)
 
 
 Email: 
