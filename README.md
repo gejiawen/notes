@@ -38,7 +38,7 @@
     - Linux
         - [鸟哥的Linux私房菜](http://linux.vbird.org/)
     - Nginx
-        - (Nginx开发从入门到精通)[http://tengine.taobao.org/book/index.html]
+        - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
     - Golang
         - [golang中国](http://golangtc.com/)
 
@@ -64,7 +64,6 @@
     - [feenan](http://www.cnblogs.com/xuwenmin888/)
     - [粉丝日志](http://blog.fens.me/)
     - [OKLAI'S BLOG](http://oklai.name/)
-    - 
 
 - 社区及门户
     - [OSC](http://www.oschina.net/)
