@@ -121,6 +121,7 @@
     - [AngularJS中文社区](http://angularjs.cn/)
     - [前端观察](http://www.qianduan.net/)
     - [Web开发者](http://www.admin10000.com/)
+    - [前端乱炖](http://www.html-js.com/)
 
 - 在线工具
     - [开源在线工具](http://tool.oschina.net/)
