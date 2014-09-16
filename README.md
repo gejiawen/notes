@@ -120,6 +120,7 @@
     - [W3Cfuncs](http://www.w3cfuns.com/)
     - [AngularJS中文社区](http://angularjs.cn/)
     - [前端观察](http://www.qianduan.net/)
+    - [Web开发者](http://www.admin10000.com/)
 
 - 在线工具
     - [开源在线工具](http://tool.oschina.net/)
