@@ -80,6 +80,7 @@
         - [RESTful API设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
     - 安全
         - [理解OAuth2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+        - [单点登录SSO](http://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html)
     - Linux
         - [鸟哥的Linux私房菜](http://linux.vbird.org/)
     - Nginx
@@ -113,6 +114,7 @@
     - [feenan](http://www.cnblogs.com/xuwenmin888/)
     - [粉丝日志](http://blog.fens.me/)
     - [OKLAI'S BLOG](http://oklai.name/)
+    - [yupeng](http://www.cnblogs.com/yupeng/)
 
 - 社区及门户
     - [OSC](http://www.oschina.net/)
