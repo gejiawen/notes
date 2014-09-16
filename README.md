@@ -29,6 +29,7 @@
         - [javascript秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
         - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/)
+        - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
     - CSS及相关
         - [纯CSS实现箭头、气泡让提示功能具有三角形图标](http://www.jb51.net/css/97112.html)
         - [CSS div文本垂直居中](http://blog.163.com/zhaoyanping_1125/blog/static/20132915320120574238932/)
