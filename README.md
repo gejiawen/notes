@@ -27,7 +27,7 @@
     - Javascript及相关
         - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
         - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
-        - [javascript秘密花园]
+        - javascript秘密花园
             - [1](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
             - [2](http://bonsaiden.github.io/JavaScript-Garden/)
         - [防止内容被选中](http://www.cnblogs.com/rubylouvre/archive/2011/05/08/2040121.html)
