@@ -89,6 +89,7 @@
         - [单点登录SSO](http://www.cnblogs.com/yupeng/archive/2012/05/24/2517317.html)
     - Linux
         - [鸟哥的Linux私房菜](http://linux.vbird.org/)
+        - [Linux公社](http://www.linuxidc.com/)
     - Nginx
         - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
     - Golang
