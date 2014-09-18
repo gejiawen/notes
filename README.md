@@ -78,7 +78,7 @@
         - *[NODE.JS MODULES](https://nodejsmodules.org/)*
         - [CNPM搭建私有的NPM服务](http://blog.fens.me/nodejs-cnpm-npm/)
         - [nodejs-stream](https://github.com/substack/stream-handbook)
-        - [nodejs Stream使用手册](http://www.open-open.com/lib/view/open1389583594648.html)
+        - [nodejs Stream使用手册](http://my.oschina.net/sundq/blog/192276)
     - 版本控制
         - [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
         - [a successful git branch model](http://nvie.com/posts/a-successful-git-branching-model/)
