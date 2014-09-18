@@ -7,7 +7,7 @@
 
 
 - 资源转载 
-    - 前端系列
+    - 大前端
         - **[免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)**
         - **[前端收集](https://github.com/jikeytang/front-end-collect)**
         - [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
@@ -22,15 +22,18 @@
         - [前后端分离的思考与实践](http://ued.taobao.org/blog/2014/04/full-stack-development-with-nodejs/)
         - [论AMD和CMD](http://gejiawen.github.io/2014/07/18/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/)
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
+        - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
+        - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
+    - Javascript及相关
+        - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+        - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
+        - [javascript秘密花园]
+            - [1](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+            - [2](http://bonsaiden.github.io/JavaScript-Garden/)
+        - [防止内容被选中](http://www.cnblogs.com/rubylouvre/archive/2011/05/08/2040121.html)
         - [javascript设计模式](http://www.cnblogs.com/Darren_code/archive/2011/08/31/JavascripDesignPatterns.html)
         - [javascript MVC框架PK：Angular, Backbone, CanJS, Ember](http://www.csdn.net/article/2013-04-25/2815032-A-Comparison-of-Angular-Backbone-CanJS-and-Ember)
-        - [防止内容被选中](http://www.cnblogs.com/rubylouvre/archive/2011/05/08/2040121.html)
-        - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
-        - [javascript秘密花园](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
-        - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/)
-        - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
-        - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
     - CSS及相关
         - [纯CSS实现箭头、气泡让提示功能具有三角形图标](http://www.jb51.net/css/97112.html)
         - [CSS div文本垂直居中](http://blog.163.com/zhaoyanping_1125/blog/static/20132915320120574238932/)
