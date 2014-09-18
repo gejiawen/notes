@@ -129,9 +129,13 @@
     - [Web开发者](http://www.admin10000.com/)
     - [前端乱炖](http://www.html-js.com/)
 
-- 在线工具
+- 工具资源
     - [开源在线工具](http://tool.oschina.net/)
     - [online javascript beautifier](http://jsbeautifier.org/)
+    - [cdn.code.baidu.com](http://cdn.code.baidu.com/)
+    - [cdnjs.cn（国内镜像）](http://www.cdnjs.cn/)
+    - [cdnjs.com](http://cdnjs.com/)
+
 
 
 Email: 
