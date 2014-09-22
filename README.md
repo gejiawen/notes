@@ -138,6 +138,7 @@
     - [前端观察](http://www.qianduan.net/)
     - [Web开发者](http://www.admin10000.com/)
     - [前端乱炖](http://www.html-js.com/)
+    - [JSER](http://www.jser.com/)
 
 - 工具资源
     - [开源在线工具](http://tool.oschina.net/)
