@@ -34,6 +34,7 @@
         - [javascript设计模式](http://www.cnblogs.com/Darren_code/archive/2011/08/31/JavascripDesignPatterns.html)
         - [javascript MVC框架PK：Angular, Backbone, CanJS, Ember](http://www.csdn.net/article/2013-04-25/2815032-A-Comparison-of-Angular-Backbone-CanJS-and-Ember)
         - [全面理解面向对象的 JavaScript](http://www.ibm.com/developerworks/cn/web/1304_zengyz_jsoo/)
+        - **[ECMAScript6 入门](http://es6.ruanyifeng.com/)**
     - CSS及相关
         - [纯CSS实现箭头、气泡让提示功能具有三角形图标](http://www.jb51.net/css/97112.html)
         - [CSS div文本垂直居中](http://blog.163.com/zhaoyanping_1125/blog/static/20132915320120574238932/)
