@@ -24,6 +24,7 @@
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
         - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
+        - 
     - Javascript及相关
         - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
         - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
@@ -99,6 +100,8 @@
         - [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
     - 工程化
         - [依赖注入的那些事](http://www.cnblogs.com/leoo2sk/archive/2009/06/17/di-and-ioc.html#2759603)
+    - 性能提升解决方案
+        - [一致性哈希算法及其在分布式系统中的应用](http://blog.codinglabs.org/articles/consistent-hashing.html)
     
 - 值得订阅的blog
     - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
@@ -143,6 +146,8 @@
     - [cdnjs.cn（国内镜像）](http://www.cdnjs.cn/)
     - [cdnjs.com](http://cdnjs.com/)
 
+- 文集
+    - [如何变得有思想](http://www.ruanyifeng.com/blog/2014/05/my_blog_book.html)
 
 
 Email: 
