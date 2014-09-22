@@ -24,7 +24,6 @@
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
         - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
-        - 
     - Javascript及相关
         - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
         - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
@@ -147,7 +146,9 @@
     - [cdnjs.com](http://cdnjs.com/)
 
 - 文集
-    - [如何变得有思想](http://www.ruanyifeng.com/blog/2014/05/my_blog_book.html)
+    - 如何变得有思想
+        - [1](http://www.ruanyifeng.com/blog/2014/05/my_blog_book.html)
+        - [2](http://www.ruanyifeng.com/blog/essays/)
 
 
 Email: 
