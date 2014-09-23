@@ -105,6 +105,8 @@
         - [依赖注入的那些事](http://www.cnblogs.com/leoo2sk/archive/2009/06/17/di-and-ioc.html#2759603)
     - 性能提升解决方案
         - [一致性哈希算法及其在分布式系统中的应用](http://blog.codinglabs.org/articles/consistent-hashing.html)
+    - 数据库
+        - [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html)
     
 - 值得订阅的blog
     - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
