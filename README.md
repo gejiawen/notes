@@ -71,6 +71,12 @@
             - [grunt](http://gruntjs.com/)
             - [yeoman.io](http://yeoman.io/)
             - [yeoman中文版](http://yeomanjs.org/)
+        - 工具特效类库
+            - 幻灯片框架
+                - [cleaver](https://github.com/jdan/cleaver/)
+                - [impress.js](https://github.com/bartaz/impress.js)
+                - [reveal.js](https://github.com/hakimel/reveal.js)
+                - [deck.js](https://github.com/imakewebthings/deck.js)
     - NodeJS
         - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
         - [Node入门](http://www.nodebeginner.org/index-zh-cn.html#a-basic-http-server)
