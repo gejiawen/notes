@@ -39,8 +39,9 @@
         - [CSS实现垂直居中的5种方法](http://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods.html)
         - [css清除float方法](http://flyxiang228.iteye.com/blog/1069071)
         - [如何将页脚固定在页面底部](http://www.w3cplus.com/css/css-sticky-foot-at-bottom-of-the-page)
-        - [CSS3 :nth-child()伪类选择器](http://www.cnblogs.com/kiracn/archive/2009/12/17/1626742.html)
-        - [css 中的background:transparent到底是什么意思有什么作用](http://www.jb51.net/css/67702.html)
+        - [CSS3:nth-child()伪类选择器](http://www.cnblogs.com/kiracn/archive/2009/12/17/1626742.html)
+        - [css中的background:transparent到底是什么意思有什么作用](http://www.jb51.net/css/67702.html)
+        - [css布局](http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072929.html)
     - HTML5
         - [28个你必须知道的HTML5的新特性，技巧以及技术](http://adamlu.com/?p=584)
         - [IndexedDB开发指南](http://www.tfan.org/using-indexeddb/)
@@ -157,6 +158,7 @@
         - [1](http://www.ruanyifeng.com/blog/2014/05/my_blog_book.html)
         - [2](http://www.ruanyifeng.com/blog/essays/)
     - [OutOfMemory](https://gitcafe.com/Superwyh/OutOfMemory)
+    - [谈谈面试与面试题](http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072926.html)
 
 
 Email: 
