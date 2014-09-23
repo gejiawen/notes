@@ -42,6 +42,7 @@
         - [CSS3:nth-child()伪类选择器](http://www.cnblogs.com/kiracn/archive/2009/12/17/1626742.html)
         - [css中的background:transparent到底是什么意思有什么作用](http://www.jb51.net/css/67702.html)
         - [css布局](http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072929.html)
+        - [CSS知识手册](https://github.com/xhinking/xhinking.github.com/issues/1)
     - HTML5
         - [28个你必须知道的HTML5的新特性，技巧以及技术](http://adamlu.com/?p=584)
         - [IndexedDB开发指南](http://www.tfan.org/using-indexeddb/)
