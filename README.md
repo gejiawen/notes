@@ -21,6 +21,7 @@
         - [前端模块管理器简介](http://www.ruanyifeng.com/blog/2014/09/package-management.html)
         - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
+        - [淘宝前后端分离实践](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html#/)
     - Javascript及相关
         - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
         - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
@@ -109,6 +110,11 @@
         - [一致性哈希算法及其在分布式系统中的应用](http://blog.codinglabs.org/articles/consistent-hashing.html)
     - 数据库
         - [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html)
+    - 架构设计
+        - [大型网站系统架构的演化](http://www.cnblogs.com/leefreeman/p/3993449.html)
+    - 面试、心得、体会、职业经验
+        - [2015校园招聘阿里巴巴前端笔经面经](http://www.cnblogs.com/jones-c/p/3985109.html)
+        - [关于笔经面经参考](http://www.cnblogs.com/jones-c/p/3993940.html)
     
 - 值得订阅的blog
     - **[阮一峰的网络日志](http://www.ruanyifeng.com/home.html)**
