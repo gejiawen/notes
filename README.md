@@ -139,6 +139,7 @@
     - [粉丝日志](http://blog.fens.me/)
     - [OKLAI'S BLOG](http://oklai.name/)
     - [yupeng](http://www.cnblogs.com/yupeng/)
+    - [笨笨剥壳](http://www.benben.cc/)
 
 - 社区及门户
     - [OSC](http://www.oschina.net/)
@@ -152,6 +153,7 @@
     - [Web开发者](http://www.admin10000.com/)
     - [前端乱炖](http://www.html-js.com/)
     - [JSER](http://www.jser.com/)
+    - [F2E](http://f2e.im/)
 
 - 工具资源
     - [开源在线工具](http://tool.oschina.net/)
