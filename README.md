@@ -59,6 +59,8 @@
             - [AngularJS学习笔记](http://www.cnblogs.com/lcllao/archive/2012/10/18/2728787.html)
             - [angular性能优化心得](http://atian25.github.io/2014/05/09/angular-performace/)
             - [AngularJS框架的网站进行SEO的基本原理](http://angularjs.cn/A05v)
+        - [Regular.js](https://github.com/regularjs)
+            - [regularjs指南](http://regularjs.github.io/guide/zh/introduct/README.html)
         - Css预编译技术
             - [Sass vs. LESS vs. Stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-a-preprocessor-shootout--net-24320)
             - [LESS](http://www.lesscss.net/)
