@@ -169,6 +169,7 @@
         - [1](http://www.ruanyifeng.com/blog/2014/05/my_blog_book.html)
         - [2](http://www.ruanyifeng.com/blog/essays/)
     - [OutOfMemory](https://gitcafe.com/Superwyh/OutOfMemory)
+    - [当程序员的那些狗日日子](http://blog.csdn.net/tangtdd/article/category/806344)
     - [谈谈面试与面试题](http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072926.html)
 
 
