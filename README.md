@@ -22,6 +22,7 @@
         - [前端框架MV*分析系列](http://www.cnblogs.com/aaronjs/archive/2013/06/16/3138631.html)
         - [关于前端框架的一些观点](http://www.admin10000.com/document/1686.html)
         - [淘宝前后端分离实践](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html#/)
+        - [前端性能优化](http://dbanotes.net/web-performance)
     - Javascript及相关
         - [Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
         - [悟透Javascript](http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html)
