@@ -1,5 +1,7 @@
 # 资源札记
 
+**此repo不再更新，新地址请移步[这里](http://gejiawen.github.io/labs/res/favorite)**
+
 > **此处将专门用于转载记录各种资源文章**
 
 
